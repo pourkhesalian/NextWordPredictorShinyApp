@@ -1,0 +1,13 @@
+name: NextWordPredictorShinyApp
+title: NextWordPredictorShinyApp
+username:
+account: pourkhesalian
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1600812
+bundleId: 2668722
+url: https://pourkhesalian.shinyapps.io/NextWordPredictorShinyApp/
+when: 1576386934.85701
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: alipresentation.md|alipresentation.Rpres
